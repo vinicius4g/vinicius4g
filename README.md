@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Desenvolvedor Mobile - Developer Mobile 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius4g/)](https://www.linkedin.com/in/vinicius4g/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusdias4g@gmail.com)](mailto:viniciusdias4g@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmartins4g@gmail.com)](mailto:viniciusmartins4g@gmail.com)
 
 
 Bem vindo ao meu GitHub, meu nome é Vinícius e sou Bacharel em Ciência da Computação, atualmente trabalho com desenvolvimento mobile.
